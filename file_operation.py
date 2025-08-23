@@ -19,3 +19,8 @@ if os.path.exists(file_path):
     print("Comments added successfully.....")
 else:
     print("Not exist")
+
+
+                                                        #Instead of appending, you can read the content, modify it, and then save the changes
+import os
+import time
