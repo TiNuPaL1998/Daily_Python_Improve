@@ -1,0 +1,5 @@
+Rahul,100
+Priya,200
+Amit,300
+Sneha,400
+Arjun,500

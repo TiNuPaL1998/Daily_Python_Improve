@@ -1,0 +1,9 @@
+2025-09-03 10:15:23 INFO Starting server on port 8080
+2025-09-03 10:15:25 INFO Database connection established
+2025-09-03 10:15:27 WARNING High memory usage detected
+2025-09-03 10:15:30 ERROR Failed to connect to payment gateway
+2025-09-03 10:15:35 INFO User Rahul logged in
+2025-09-03 10:15:40 ERROR Timeout while fetching data from API
+2025-09-03 10:15:45 INFO Request completed successfully
+2025-09-03 10:15:50 ERROR Disk space running low on /dev/sda1
+2025-09-03 10:15:55 INFO Server health check passed
